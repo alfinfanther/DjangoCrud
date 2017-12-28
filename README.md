@@ -7,7 +7,7 @@
 
 Note : change connection db in file (djangocrud/settings.py)
 
-=====================
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
@@ -18,7 +18,7 @@ DATABASES = {
         'PORT': '3306',
     }
 }
-======================
+
 
 
 url
